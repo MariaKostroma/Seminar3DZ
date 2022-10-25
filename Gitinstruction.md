@@ -17,3 +17,4 @@
 * *Secret* - non info
 * *git checkout branch_Name* - переключаемся между ветками;
 ## Базовые термины третьего семинара
+*Secret3* - non info
